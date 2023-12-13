@@ -1,0 +1,37 @@
+hashtable
+chaining-completed
+linear prob-completed
+quadratic-completed
+double-completed
+8-pm
+sorting
+9-
+stack and que-completed
+10-11
+hashtable-completed
+full revise
+bubble sorting
+insert-completed
+selection-completed
+quick sort-completed
+merge sort-completed
+stack-completed
+que-completed
+stack to que-completed
+que to stack-completed
+linkedto stack-completed
+linkedtoque-completed
+stack tolinked-completed
+queto linked-completed
+hashtable
+chaining-completed
+linearprob-completed
+quadratic-completed
+doublehashing-completed
+11-12pm
+sorting completed
+stack and que
+chaining-completed
+linear-completed
+quadratic -completed
+double hash-completed

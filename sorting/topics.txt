@@ -1,0 +1,210 @@
+todaty
+bubble sort
+insertion sort
+selection sort
+quick sort
+merge sort
+night 7pm-9pm
+stack
+today
+9-9:30-completed sorting
+9:30-10:15-stack
+10:30-12:30
+queue
+1:30 -2pm
+revise queue-compelted
+2pm-4pm
+linkedlist to stack-2-230
+completed
+
+linkedlist to queue 2:30-3pm
+completed
+queue to linkedlist3-3:30-4pm
+completed
+stack to linked linkedlist3:4-5-completed
+5-6pm
+7pm-7:30
+sorting-completed
+7:30-8pm-stack
+stack -push and pop completed
+& queue-enque and deque completed
+8-9pm
+linked to queue-completed
+linked to stack-completed
+stack to linked-completed
+queue to linked-completed
+
+
+
+8:30-9:30pm
+stack to queue-completed
+queue to stack-completed
+tomorow-
+9-10:30 
+revision
+bubblesort-completed
+insertion sort-completed
+selection sort-completed
+quick sort-completed
+merge sort-completed
+stack-using list-completed
+ and class-completed
+que using list-completed
+ and class-completed
+stack to que-completed
+que to stack-completed
+linked to stack-completed
+linked to que-completed
+que to linked -completed
+stack to linked-completed
+10:30 -12:pm
+hash table-theory covered
+3:30-4:30
+sorting
+bubble sort-completed
+insertions sort-completed
+selection sort-completed
+quick sort-completed
+merge sort-completed
+4:30-5:30
+8:30-9:30
+stack &que-
+implement stack using list and class-completed
+implement que using list and class-completed
+stack to que-completed
+que to stack-completed
+linked to stack-completed
+linked to que-completed
+stack to linked-completed
+que to linked-completed
+9:30-10:30
+hash table
+tomorow-moring
+8-10
+revise all topic
+chaining-1hr9-10
+linear-1hr10-11
+quadratic11-12
+double1:2
+revise
+
+today-9-11am
+chaining method-completed
+11-1pm
+linear probing-completed
+12pm-revision -chain completed
+ and linear prob-completed
+1:30-3:pm-quandric-completed
+3:5pm -double hashing-
+
+3:4pm
+3sort-
+bubble sort-completed
+insertion sort-completed
+selection sort-completed'
+4-5pm
+2 sort-
+quick sort-completed
+merge sort-completed
+8:30-9pm
+stack-
+stack application
+undo mechanism
+expression evaluation
+stack using list-completed
+stack using class-completed
+que-application
+data buffering
+synchronization
+types of que
+priority que
+circular que
+simple que
+double ended que
+blocked que
+que using list-completed
+que using class-completed
+stack to que-completed
+que to stack-completed
+linkedto stack-completed
+linkedto que-completed
+stack to linkedlist-completed
+que to linkedlist-completed
+hashtable-
+10-1pm
+sorting
+stackque
+hashtable-
+11-pm
+sorting upto 12pm-completed
+12 to 1pmstack -completed
+and que-completed
+stack to que-completed
+que to stack-completed
+stack to linked-completed
+que to linked-completed
+linked to stack-completed
+linked to que-completed
+3-4pm hashtable
+chaining-completed
+linear prob-completed
+5-pm-7:30
+quadratic1-completed
+double hashing-completed
+tomorow
+full revise
+sort-
+bubble sort-completed
+insertion sort-completed
+selection sort-completed
+quick sort-completed
+merge sort-completed
+10-11-stack and que
+stack using list and class-completed
+que using list and class-completed
+stack to que-completed
+que to stack-completed
+linkedto stack-completed
+linked to que-completed
+stack to linked-completed
+que to linked-completed
+11-12pmhashtable
+chaining-completed
+linearprob-completed
+quadratic1-completed
+doublehashing-complete
+12-1pm
+3-sort-completed
+1:2pm
+mege sort-completed
+quick sort-completed
+2-3-stack & que-completed
+3-4 hashtable-completed
+4-5pm
+sorting
+5-6
+stack & que
+6-7
+hashtable
+5-7pm
+sorting-completed
+stack-completed
+que-completed
+hashtable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
